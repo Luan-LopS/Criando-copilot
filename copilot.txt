@@ -1,0 +1,12 @@
+Criando copilot
+
+Neste desafio foi criado conta no microsoft 365  e conectado  nos ambiente do copilot e power apps.
+Criamos o nosso primeiro agente de três maneiras:
+
+1- Utilizamos um modelo ja existente para criação do nosso modelo, onde  ja vem quase tudo configurado.
+
+2 - Utilizamos o copilot para a criação de um modelos novo, que dependendo do pronpt que passamos, para ter um  agente mais otimizados.
+
+3- Utilizamos um modelo novo embrando para criação, este caso tem muitoas configurações que precisam ser feitas, sendo necessario maior conhecimento.
+
+Tendo em vista que este é o primeiro contato com  a ferramenta  acretido que seja mais facil de utilizar a primeira opção, pela menor conplexidade.
